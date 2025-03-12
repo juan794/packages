@@ -1,3 +1,11 @@
+## 0.2.3+8
+
+* Updates compileSdk 34 to flutter.compileSdkVersion.
+
+## 0.2.3+7
+
+* Bumps gradle-plugin to 2.1.10.
+
 ## 0.2.3+6
 
 * Adds internal wrapper for iOS native `IMAAdPodInfo`.
